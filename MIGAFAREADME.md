@@ -27,6 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mirgafar mammadli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirgafar mammadli" height="30" width="40" /></a>
 <a href="https://kaggle.com/migafar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="migafar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/migafar?igsh=MXNrNWV5dGwzc2pxbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="migafar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mirqefer memmedli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mirqefer memmedli" height="30" width="40" /></a>
 </p>
 
