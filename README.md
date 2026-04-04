@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mirgafar Mammadli</h1>
-<h3 align="center">A passionate AI enthusiast and Machine learning developer from Azerbaijan.</h3>
+<h1 align="center">Hiiii 👋, I'm Mirgafar Mammadli AKA migafar</h1>
+<h3 align="center">A passionate AI|Data Science enthusiast and IT student from Azerbaijan.</h3>
 
 
 
-- 🔭 I’m currently working on **NLP and LLM's introduction**
+- 🔭 I’m currently working on **NLP and LLM's introduction and Data Scienctist**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **all AI enthusiast**
 
@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mirgafar-mammadli](https://www.linkedin.com/in/mirgafar-mammadli)
 
-- 💬 Ask me about **Artificial intelligence**
+- 💬 Ask me about **Artificial intelligence and Data Science**
 
 - 📫 How to reach me **mirqafarmammadli@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mirgafar-mammadli-845564327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mirgafar-mammadli-845564327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📄 Know about my experiences from this profile
 
 - ⚡ Fun fact **I can voice acting 🎭 and I love watching movies 🎥**
 
