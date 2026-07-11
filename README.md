@@ -1,6 +1,8 @@
-<h1 align="center">Hiiii 👋, I'm Mirgafar Mammadli AKA migafar</h1>
+<h1 align="center">👋 Mirgafar Mammadli AKA migafar</h1>
 <h3 align="center">A passionate AI|Data Science enthusiast and IT student from Azerbaijan.</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+Artificial+life+with+tech;3rd-year+Information+Technology+Student;Voice+Actor+by+Night%2C+Data+Scientist+by+Day;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
 
 - 🔭 I’m currently working on **Devlab LLC and DevJoint as Data Scienctist**
@@ -11,7 +13,7 @@
 
 - 🤝 I’m looking for help with **ML projects and Mathematics fundamentals**
 
-- 👨‍💻 All of my projects are available at [this profile](this profile)
+- 👨‍💻 All of my projects are available at Github.
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mirgafar-mammadli](https://www.linkedin.com/in/mirgafar-mammadli)
 
